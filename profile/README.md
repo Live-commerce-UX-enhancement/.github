@@ -4,6 +4,9 @@
 - 2대의 서로다른 컴퓨터가 필요합니다.
     - 관리자용 : 라이브 커머스 관리자 보드 실행을 위한 컴퓨터
     - 시청자용 : Naver Live Commerce 및 시청자용 Chrome Extension 실행을 위한 컴퓨터
+ 
+## Presentation Video + Demo
+- https://www.youtube.com/watch?v=AcHoE-BJosg
 
 ### 1. 채팅 의도 분류 모델을 AWS 에 배포 후, API 를 생성합니다.
 
