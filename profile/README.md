@@ -6,7 +6,7 @@
     - 시청자용 : Naver Live Commerce 및 시청자용 Chrome Extension 실행을 위한 컴퓨터
  
 ## Presentation Video + Demo
-- https://www.youtube.com/watch?v=AcHoE-BJosg
+[![Video Label](https://github.com/Live-commerce-UX-enhancement/.github/assets/64399505/92d46cf5-b138-4111-bde6-ca146d9446b2)]([https://youtu.be/59USvjy2toI](https://www.youtube.com/watch?v=AcHoE-BJosg))
 
 ---
 
