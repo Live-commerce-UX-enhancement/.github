@@ -7,7 +7,9 @@
  
 ## Presentation Video + Demo
 - https://www.youtube.com/watch?v=AcHoE-BJosg
+
 ---
+
 ### 1. 채팅 의도 분류 모델을 AWS 에 배포 후, API 를 생성합니다.
 
 - [Chat-Intent-Classification Repository](https://github.com/Live-commerce-UX-enhancement/Chat-Intent-Classification) 를 참고하여 채팅 의도분류 모델에 대한 API 를 생성합니다.
